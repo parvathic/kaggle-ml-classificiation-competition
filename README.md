@@ -29,4 +29,6 @@ Quora is a platform that empowers people to learn from each other. On Quora, peo
 
 ![ratio](/images/3.JPG)
 
+- Word Length as a feature
+
 ![wordleg](/images/4.JPG)
