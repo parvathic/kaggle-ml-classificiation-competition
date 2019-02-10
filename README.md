@@ -28,3 +28,5 @@ Quora is a platform that empowers people to learn from each other. On Quora, peo
 ## Data Analysis
 
 ![ratio](/images/3.JPG)
+
+![wordleg](/images/4.JPG)
